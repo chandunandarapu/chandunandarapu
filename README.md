@@ -4,6 +4,10 @@
 
 📍 Bangalore, India &nbsp;|&nbsp; 📧 chandukrishnan01@gmail.com &nbsp;|&nbsp; 📞 +91 9059727646
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F6E56?style=flat-square&logo=github)](https://chandunandarapu.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Gmail-chandukrishnan01-red?style=flat-square&logo=gmail)](mailto:chandukrishnan01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+
 ---
 
 ## 🚀 About Me
@@ -19,73 +23,78 @@ Results-driven Backend Developer building scalable, high-performance web applica
 
 ---
 
-## 🛠 Tech Stack
+## What I build
 
-| Category | Technologies |
-|---|---|
-| **Language** | Python |
-| **Frameworks** | Django, Django REST Framework (DRF), Flask |
-| **Databases** | PostgreSQL, MySQL, SQL |
-| **API** | RESTful Services, Postman |
-| **Web** | HTML, CSS, JavaScript, Bootstrap |
-| **DevOps / Tools** | Git, CI/CD, Docker, PyCharm, Jupyter Notebook |
-| **Testing** | PyTest, Robot Framework |
-| **Cloud** | AWS, Azure |
-| **Data** | Excel, CSV Bulk Processing, Pandas (basic) |
-| **Methodology** | Agile, Scrum |
-| **OS** | Windows, Linux |
-
----
-
-## 🏆 Key Achievements
-
-- ⚡ Reduced **PostgreSQL query execution time by 25%** through schema redesign and targeted indexing
-- 🤖 Cut **manual QA effort by 40%** by implementing automated test workflows with Robot Framework & PyTest
-- 📈 Improved **system reliability by 30%** on a platform managing 100K+ customer records at TCS
-- 🏃 Served as **Scrum Master** — facilitating sprint planning, daily stand-ups, and retrospectives
+```
+  Client Request
+       │
+       ▼
+  ┌─────────────┐
+  │  Django API  │  ◄── REST endpoints, auth, validation
+  └──────┬──────┘
+         │
+         ▼
+  ┌─────────────┐
+  │  PostgreSQL  │  ◄── schema design, indexing, query tuning
+  └──────┬──────┘
+         │
+         ▼
+  ┌─────────────┐
+  │   Response   │  ◄── clean JSON, tested, documented
+  └─────────────┘
+```
 
 ---
 
-## 📌 Featured Projects
+## How I work
 
-### 🗂️ Customer Data Management (CDM)
-> **Python · Django · PostgreSQL · REST APIs · MySQL · Bootstrap**
-
-A centralized platform to collect, process, and manage high-volume customer data from multiple sources — enabling secure storage, transformation, and retrieval for analytics and reporting.
-
-- Developed scalable Django backend managing **100K+ customer records**, improving reliability by 30%
-- Optimized PostgreSQL schemas and indexes — **25% query execution time reduction**
-- Implemented robust data validation and secure Django authentication mechanisms
-- Automated test coverage with PyTest, significantly reducing production defects
-
----
-
-### 🛒 Product Catalogue Designer
-> **Python · Django · MySQL · HTML · CSS · Bootstrap**
-
-A web-based platform enabling customers to explore products, pricing, discounts, and service offerings — supporting prepaid/postpaid billing and bulk data processing.
-
-- Built dynamic Django web app with real-time product catalog management
-- Engineered **bulk data pipelines** for mass product updates via Excel and CSV
-- Automated test scripts using Robot Framework & PyTest — **40% reduction in manual testing**
-- Designed backend workflows for prepaid and postpaid billing models
+```
+  Plan          Build           Test              Ship
+   │             │               │                 │
+   ▼             ▼               ▼                 ▼
+Scrum ──► Django + DRF ──► PyTest / Robot ──► Docker + CI/CD
+Sprint        REST API        Automated           Git
+Planning      PostgreSQL      40% less            Pipeline
+Stand-ups     Bulk CSV/XLS    manual QA           Linux
+```
 
 ---
 
-## 📚 Education
+## My stack at a glance
 
-**Bachelor of Technology (B.Tech)**
-Saveetha Institute of Medical and Technical Sciences — *Graduated 2023*
+```
+┌──────────────────────────────────────────────────┐
+│                   BACKEND                        │
+│   Python 🐍   Django   DRF   Flask               │
+├──────────────────────────────────────────────────┤
+│                   DATABASE                       │
+│   PostgreSQL   MySQL   SQL   (25% faster queries)│
+├──────────────────────────────────────────────────┤
+│                   TESTING                        │
+│   PyTest   Robot Framework   Postman             │
+├──────────────────────────────────────────────────┤
+│                   DEVOPS                         │
+│   Docker   Git   CI/CD   Linux                   │
+├──────────────────────────────────────────────────┤
+│                   CLOUD                          │
+│   AWS   Azure                                    │
+└──────────────────────────────────────────────────┘
+```
 
 ---
 
-## 📬 Let's Connect
+## Where I'm heading
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chandunandarapu.github.io-0F6E56?style=flat-square&logo=github)](https://chandunandarapu.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-chandukrishnan01%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:chandukrishnan01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/chandunandarapu)
-
+```
+  Now                    Next                   Goal
+   │                      │                      │
+   ▼                      ▼                      ▼
+Backend Dev  ──►  Senior Engineer  ──►  System Architect
+Django/DRF        Cloud-native          Design the data
+PostgreSQL        Kubernetes            Own API contracts
+REST APIs         Event-driven          Lead & mentor
+```
 
 ---
 
-*Languages known: English · Telugu · Kannada*
+*English · Telugu · Kannada*
