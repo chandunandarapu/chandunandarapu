@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Results-driven Backend Developer building scalable, high-performance web applications at **Tata Consultancy Services (TCS)**. I've shipped systems handling **100K+ customer records**, slashed query times by **25%**, and automated away **40% of manual QA effort** — all in Agile/Scrum environments where I've also stepped up as **Scrum Master**.
+Results-driven Backend Developer building scalable, high-performance web applications at **TCS**. I've shipped systems handling **100K+ customer records**, slashed query times by **25%**, and automated away **40% of manual QA effort** — all in Agile/Scrum environments where I've also stepped up as **Scrum Master**.
 
 - 🏗️ 2.9+ years of professional experience in Python & Django backend development
 - 🔗 Proficient in designing and consuming RESTful APIs (Postman, DRF)
