@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Chandu Krishna
 
-**Backend Python Developer · Django · REST APIs · PostgreSQL**
+**Python Developer · Django · REST APIs · PostgreSQL**
 
 📍 Bangalore, India &nbsp;|&nbsp; 📧 chandukrishnan01@gmail.com &nbsp;|&nbsp; 📞 +91 9059727646
 
