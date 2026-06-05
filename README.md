@@ -81,8 +81,10 @@ Saveetha Institute of Medical and Technical Sciences — *Graduated 2023*
 
 ## 📬 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-chandunandarapu.github.io-0F6E56?style=flat-square&logo=github)](https://chandunandarapu.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-chandukrishnan01%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:chandukrishnan01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/chandunandarapu)
+
 
 ---
 
